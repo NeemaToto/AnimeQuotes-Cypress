@@ -1,6 +1,6 @@
 # Assessment 1
 
-## Creatd by
+## Created by
 - Neema Totonchi
 
 ## Description
